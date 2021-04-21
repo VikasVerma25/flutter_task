@@ -12,3 +12,5 @@ Add  assets path in pubspec.yaml
 
 Add a permision in the manifest file
 ![](ss/f3.jpg)
+
+[Watch the video](https://www.linkedin.com/posts/vikas-verma-4a02b51a2_flutterappdevelopment-task-fluttertraning-activity-6696272818742538240--fuJ)
